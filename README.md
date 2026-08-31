@@ -2,7 +2,7 @@
   <h1>😊I'm Endi</h1>
   <p>👨🏼‍🎓Web Developer | Student | Always Learning</p>
   <p>🖥️I’ve been coding for 4 years, creating modern and user-friendly web applications</p>
-  <p>👀I love playing Fortnite</p>
+  <p>👀I like watching moves</p>
   <p>🎴I enjoy watching anime</p>
 </div>
 
